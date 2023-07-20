@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://t.me/Shi_najafi"><img
       src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&labelColor=f4f4f4&logo=telegram&logoColor=D14836&link=https://t.me/Shi_najafi/"></a>
-  <a href="mailto:at.shinajafi401@gmail.com"><img
+  <a href="mailto:shinajafi401@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:shinajafi401@gmail.com/"></a>
 <!--   <a href="https://www.linkedin.com/in/atefeh-bakhshi/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a> -->
