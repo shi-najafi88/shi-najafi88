@@ -30,9 +30,9 @@
   <a target="_blank" href="https://reactjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
-  <a target="_blank" href="https://nextjs.org/"><img
+<!--   <a target="_blank" href="https://nextjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS"
-      width="45" height="45" /></a>
+      width="45" height="45" /></a> -->
   <a target="_blank" href="https://redux.js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
       width="45" height="45" /></a>
